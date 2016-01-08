@@ -1,4 +1,6 @@
 # drkat123.github.io
+
+[![Join the chat at https://gitter.im/DrKat123/drkat123.github.io](https://badges.gitter.im/DrKat123/drkat123.github.io.svg)](https://gitter.im/DrKat123/drkat123.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 My official website
 
 
